@@ -1,0 +1,4 @@
+GET http://localhost:2020/headers
+Content-Type: application/json
+X-Tenant-Id: BDCECF78-C439-4EBE-9400-7E29FC962DDA
+X-Tenant-Username: mock
